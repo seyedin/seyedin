@@ -3,7 +3,7 @@
 I'm Seyedin (GitHub: [seyedin](https://github.com/seyedin)), a passionate software developer who loves creating innovative solutions. My journey in coding has been fueled by a desire to solve real-world problems and make technology accessible to everyone.
 
 <p align="center">
-  <img src="[image-url-here](https://github.com/seyedin/seyedin/blob/main/142f6127-8438-4cb0-bd30-f487cc35b0df.jpg)" alt="Banner" />
+  <img src="[[image-url-here](https://github.com/seyedin/seyedin/blob/main/142f6127-8438-4cb0-bd30-f487cc35b0df.jpg)](https://github.com/seyedin/seyedin/blob/main/142f6127-8438-4cb0-bd30-f487cc35b0df.jpg?raw=true)" alt="Banner" />
 </p>
 
 
